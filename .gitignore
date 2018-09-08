@@ -1,3 +1,44 @@
+#Angular
+# compiled output
+/angular-client/dist
+/angular-client/tmp
+/angular-client/out-tsc
+
+# dependencies
+/angular-client/node_modules
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+/angular-client/.sass-cache
+/angular-client/connect.lock
+/angular-client/coverage
+/angular-client/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/angular-client/typings
+
+# System Files
+.DS_Store
+Thumbs.db
+
+
+
 # Logs
 logs
 *.log
